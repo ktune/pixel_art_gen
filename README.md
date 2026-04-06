@@ -8,6 +8,7 @@ A Python desktop application to convert images into 8-bit retro-style pixel art 
 - Real-time preview of pixel art
 - Save the converted image
 - Full-screen pixel art preview
+- very easy to use
 
 ## 📦 Requirements
 
